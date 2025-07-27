@@ -1,0 +1,23 @@
+.div-main{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    
+    
+    
+}
+.div-style{
+    padding: 10px;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 500;
+}
+.button{
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: rgb(9, 133, 135);
+    color: #fff;
+    border-radius: 4px;
+    margin: 20px 230px;
+    
+}
