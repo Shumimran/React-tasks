@@ -12,7 +12,9 @@ function App() {
     <Greetings />
     <Counter />
     <Card />
-    <MyForm />
+    <MyForm  onAddProduct={(product)=> console.log("Added Product", product)}
+    />
+    {/* <list/> */}
  
     </div>
   )

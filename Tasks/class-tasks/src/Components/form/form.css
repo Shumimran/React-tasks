@@ -1,23 +1,35 @@
 .div-main{
     display: flex;
     flex-direction: column;
-    gap: 5px;
-    
-    
-    
+    padding: 15px;
+    margin-top: 10px;
+      
 }
+
 .div-style{
-    padding: 10px;
+    display: flex;
     justify-content: space-between;
     font-size: 20px;
     font-weight: 500;
+    margin-top: 20px;
 }
+
 .button{
     padding: 10px 20px;
     font-size: 20px;
-    background-color: rgb(9, 133, 135);
+    background-color: #098587;
     color: #fff;
     border-radius: 4px;
     margin: 20px 230px;
     
+}
+.prod-Btn{
+    background-color: #098587;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+    color: #dde1e1;
+    margin-top: 50px;
+
 }
